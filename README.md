@@ -50,22 +50,19 @@ I'm a passionate Full-Stack Developer with experience creating modern, responsiv
 
 ## GitHub Stats
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=jeffkaberagithara-guru&show_icons=true&count_private=true&hide_border=true" 
-        alt="GitHub Stats" 
-      />
-    </td>
-    <td align="center">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffkaberagithara-guru&layout=compact&hide_border=true" 
-        alt="Top Languages" 
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=jeffkaberagithara-guru&show_icons=true&count_private=true&hide_border=true" 
+    alt="GitHub Stats" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffkaberagithara-guru&layout=compact&hide_border=true" 
+    alt="Top Languages" 
+  />
+</p>
 
 <p align="center">
   <img 
