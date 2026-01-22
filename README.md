@@ -48,17 +48,31 @@ I'm a passionate Full-Stack Developer with experience creating modern, responsiv
 ![Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=jeffkaberagithara-guru&show_icons=true&count_private=true&hide_border=true" 
+        alt="GitHub Stats" 
+      />
+    </td>
+    <td align="center">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffkaberagithara-guru&layout=compact&hide_border=true" 
+        alt="Top Languages" 
+      />
+    </td>
+  </tr>
+</table>
 
-![Jeff's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeffkaberagithara&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffkaberagithara&layout=compact&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=jeffkaberagithara&hide_border=true)
-
-</div>
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=jeffkaberagithara-guru&hide_border=true" 
+    alt="GitHub Streak" 
+  />
+</p>
 
 ## 🌐 Connect With Me
 
