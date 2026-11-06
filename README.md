@@ -1,3 +1,15 @@
+<p align="center">
+  <a href="https://kabera-portfolio.onrender.com">
+    <img src="https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-3850AF?style=for-the-badge&logoColor=white" alt="View my portfolio" />
+  </a>
+  <a href="https://github.com/jeffkaberagithara-guru/portfolio-website">
+    <img src="https://img.shields.io/badge/SOURCE%20CODE-1B1C1A?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio source code" />
+  </a>
+</p>
+
+> **Featured project:** [**Jeff Kabera Githara - Portfolio**](https://kabera-portfolio.onrender.com) - an editorial portfolio built with Next.js 16, TypeScript, Tailwind CSS v4 and Motion. [Source code](https://github.com/jeffkaberagithara-guru/portfolio-website).
+
+---
 # 👋 Hi! I'm Jeff Kabera Githara
 
 ### Full-Stack Developer and Creative Technologist
